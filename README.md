@@ -15,7 +15,6 @@ La Typo App es una aplicación de escritura rápida diseñada para proporcionar 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1]([screenshot1.png](https://i.imgur.com/t6gPjqB.png))
 ![Captura de Pantalla 2](https://i.imgur.com/Jm8eKs9.png)
 
 ## Instalación
