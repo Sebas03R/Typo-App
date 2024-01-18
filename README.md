@@ -33,7 +33,3 @@ La Typo App es una aplicación de escritura rápida diseñada para proporcionar 
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes mejoras, por favor abre un problema o envía una solicitud de extracción.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
